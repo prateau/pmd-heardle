@@ -1,3 +1,5 @@
+# :no_entry: [DEPRECATED] Active at https://github.com/prateau-heardle/pmd-heardle
+
 # pkmn-md-heardle
 
 A clone of [Heardle](https://www.heardle.app/), and [K-Pop Heardle](https://heardle-kpop.glitch.me/) but for Pokémon Mystery Dungeon musics. Based on [Joywave Heardle](https://joywave-heardle.glitch.me/)
