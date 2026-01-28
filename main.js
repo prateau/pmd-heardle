@@ -1,3 +1,5 @@
+window.location.href = 'https://prateau-heardle.github.io/pmd-heardle/';
+
 var app = (function () {
   var twitter = "";
   var zipUrl = ""; // Set to '' if you don't want to allow download of the zip
